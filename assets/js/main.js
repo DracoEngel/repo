@@ -30,11 +30,11 @@ document.addEventListener("DOMContentLoaded", () => {
     new Chart(ctx, {
       type: "line",
       data: {
-        labels: ["Semana 1", "Semana 4", "Semana 8", "Semana 12"],
+        labels: ["Q1", "Q2", "Q3", "Q4"],
         datasets: [
           {
-            label: "Capacidad Operativa (Bots)",
-            data: [100, 400, 1200, 3500],
+            label: "Eficiencia de Automatización",
+            data: [100, 450, 1500, 3800],
             borderColor: "#2563eb",
             backgroundColor: "rgba(37, 99, 235, 0.1)",
             fill: true,
