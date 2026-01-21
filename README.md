@@ -19,7 +19,6 @@ Landing estática (HTML/CSS/JS) lista para GitHub + Netlify.
 
 ## Personalización rápida
 
-- Reemplaza `https://wa.me/tu-numero` por tu número real en formato internacional.
-  - Ejemplo MX: `https://wa.me/521XXXXXXXXXX`
+- WhatsApp: `https://wa.me/524612096442`
 
 
